@@ -36,7 +36,7 @@
 ###
 
 <div align="center">
-  <img height="600" src="https://raw.githubusercontent.com/hale-the-goat/hale-the-goat/main/images/greenhill.gif"  />
+  <img width="100%" src="https://raw.githubusercontent.com/hale-the-goat/hale-the-goat/main/images/greenhill.gif"  />
 </div>
 
 ###
