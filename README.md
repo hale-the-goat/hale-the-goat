@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Aeron<br>I’m a student passionate about technology and problem-solving through programming. I enjoy building systems that work efficiently behind the scenes.<br><br>💡 Interests: Coding, databases, automation, and learning how software works under the hood<br>🌱 Currently learning: Python, backend development, and system design<br>🚀 Goals: To become a skilled backend or software developer and create reliable programs that make processes faster and smarter</h1>
+<h1 align="center">Hi 👋! I'm Aeron, a student passionate about technology and problem-solving through programming. I enjoy building systems that work efficiently behind the scenes.<br><br><br><br><br>ABOUT ME:<br><br>- 💡 Interests: Coding, databases, automation, and learning how software works under the hood.<br><br>- 🌱 Currently learning: Python, backend development, and system design.<br><br>- 🚀 Goals: To become a skilled backend or software developer and create reliable programs that make processes faster and smarter.</h1>
 
 ###
 
