@@ -24,7 +24,7 @@
 
 ###
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/hale-the-goat/hale-the-goat/main/images/shadow.gif"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/hale-the-goat/hale-the-goat/main/images/shadow.gif"  />
 
 ###
 
@@ -36,7 +36,7 @@
 ###
 
 <div align="center">
-  <img height="470" src="https://raw.githubusercontent.com/hale-the-goat/hale-the-goat/main/images/greenhill.gif"  />
+  <img height="500" src="https://raw.githubusercontent.com/hale-the-goat/hale-the-goat/main/images/greenhill.gif"  />
 </div>
 
 ###
