@@ -24,7 +24,7 @@
 
 ###
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/hale-the-goat/hale-the-goat/main/images/shadow.gif"  />
+<img align="right" height="175" src="https://raw.githubusercontent.com/hale-the-goat/hale-the-goat/main/images/shadow.gif"  />
 
 ###
 
