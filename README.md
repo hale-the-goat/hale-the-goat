@@ -7,7 +7,7 @@
 
 <p align="left">
 - 💡 Interests: <b>Coding, databases, automation, and learning how software works under the hood</b>.<br>
-- 🌱 Currently learning: <b>Python, backend development, and system design</b>.
+- 🌱 Currently learning: <b>Python, backend development, and system design</b>.<br>
 - 🚀 Goals: <b>To become a skilled backend or software developer and create reliable programs that make processes faster and smarter</b>.<br>
 </p>
 
