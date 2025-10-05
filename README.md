@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋! I'm Aeron</h1>
-<h3 align="left">I’m a student passionate about technology and problem-solving through programming. I enjoy building systems that work efficiently behind the scenes.</h3>
+<h3 align="left">I’m a BS Information Technology (BSIT) student at Arellano University, passionate about technology and problem-solving through programming. I enjoy building systems that work efficiently behind the scenes.</h3>
 
 ###
 
