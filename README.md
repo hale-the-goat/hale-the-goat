@@ -1,10 +1,4 @@
-<h1 align="center"><h1 align="left">Hi 👋! I'm Aeron</h1>
-<h3 align="left">I’m a student passionate about technology and problem-solving through programming. I enjoy building systems that work efficiently behind the scenes.</h3>
-
-<h2 align="left">📌 About Me</h2><p align="left">
-- 💡 Interests: <b>Coding, databases, automation, and learning how software works under the hood</b>.<br>
-- 🌱 Currently learning: <b>Python, backend development, and system design</b>.<br>
-- 🚀 Goals: <b>To become a skilled backend or software developer and create reliable programs that make processes faster and smarter</b>.</p></h1>
+<h1 align="center"><h1 align="center"><h1 align="left">Hi 👋! I'm Aeron</h1><br><h3 align="left">I’m a student passionate about technology and problem-solving through programming. I enjoy building systems that work efficiently behind the scenes.</h3><br><br><h2 align="left">📌 About Me</h2><p align="left"><br>- 💡 Interests: <b>Coding, databases, automation, and learning how software works under the hood</b>.<br><br>- 🌱 Currently learning: <b>Python, backend development, and system design</b>.<br><br>- 🚀 Goals: <b>To become a skilled backend or software developer and create reliable programs that make processes faster and smarter</b>.</p></h1></h1>
 
 ###
 
