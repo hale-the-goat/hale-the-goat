@@ -50,7 +50,7 @@
 ###
 
 <div align="center">
-  <img height="450" src="https://raw.githubusercontent.com/hale-the-goat/hale-the-goat/main/images/clocktower.gif"  />
+  <img width="100%" src="https://raw.githubusercontent.com/hale-the-goat/hale-the-goat/main/images/clocktower.gif"  />
 </div>
 
 ###
