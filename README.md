@@ -1,15 +1,16 @@
 <h1 align="left">Hi 👋! I'm Aeron</h1>
+
+###
+
 <h3 align="left">I’m a BS Information Technology (BSIT) student at Arellano University, passionate about technology and problem-solving through programming. I enjoy building systems that work efficiently behind the scenes.</h3>
 
 ###
 
-<h2 align="left">📌 About Me</h2>
+<h1 align="left">📌 About Me</h1>
 
-<p align="left">
-- 💡 Interests: <b>Coding, databases, automation, and learning how software works under the hood</b>.<br>
-- 🌱 Currently learning: <b>Python, backend development, and system design</b>.<br>
-- 🚀 Goals: <b>To become a skilled backend or software developer and create reliable programs that make processes faster and smarter</b>.<br>
-</p>
+###
+
+<h3 align="left">- 💡 Interests: Coding, databases, automation, and learning how software works under the hood.<br>- 🌱 Currently learning: Python, backend development, and system design.<br>- 🚀 Goals: To become a skilled backend or software developer and create reliable programs that make processes faster and smarter.</h3>
 
 ###
 
@@ -35,19 +36,19 @@
 
 ###
 
-<img align="right" height="175" src="https://raw.githubusercontent.com/hale-the-goat/hale-the-goat/main/images/shadow.gif"  />
+<img align="right" height="200" src="https://raw.githubusercontent.com/hale-the-goat/hale-the-goat/main/images/shadow.gif"  />
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hale-the-goat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" width="320" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hale-the-goat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" width="320" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hale-the-goat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hale-the-goat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/hale-the-goat/hale-the-goat/main/images/greenhill.gif"  />
+  <img height="470" src="https://raw.githubusercontent.com/hale-the-goat/hale-the-goat/main/images/greenhill.gif"  />
 </div>
 
 ###
