@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I’m a BS Information Technology (BSIT) student at Arellano University, passionate about technology and problem-solving through programming. I enjoy building systems that work efficiently behind the scenes.</h3>
+<h3 align="left">I’m a BS Information Technology (BSIT) student at Arellano University, Aspiring machine learning engineer with a passion for building models that learn from data and solve real problems. I enjoy exploring the full ML pipeline — from raw data to deployed predictions.</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">- 💡 Interests: Coding, databases, automation, and learning how software works under the hood.<br>- 🌱 Currently learning: Python, backend development, and system design.<br>- 🚀 Goals: To become a skilled backend or software developer and create reliable programs that make processes faster and smarter.</h3>
+<h3 align="left">- 💡 Interests: supervised & unsupervised learning, model evaluation, feature engineering, and data pipelines<br>- 🌱 Currently learning: scikit-learn, pandas, model deployment with FastAPI, and deep learning fundamentals<br>- 🚀 Goals: build and deploy end-to-end ML systems that are reliable, interpretable, and production-ready</h3>
 
 ###
 
