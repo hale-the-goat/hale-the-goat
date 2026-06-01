@@ -10,20 +10,26 @@
 
 ###
 
-<h3 align="left">- 💡 Interests: supervised & unsupervised learning, model evaluation, feature engineering, and data pipelines<br>- 🌱 Currently learning: scikit-learn, pandas, model deployment with FastAPI, and deep learning fundamentals<br>- 🚀 Goals: build and deploy end-to-end ML systems that are reliable, interpretable, and production-ready</h3>
+<h3 align="left">
+- 🧠 Interests: Supervised & unsupervised learning, model evaluation, feature engineering, and data pipelines.<br>
+- 🌱 Currently learning: scikit-learn, pandas, model deployment with FastAPI, and deep learning fundamentals.<br>
+- 🚀 Goals: Build and deploy end-to-end ML systems that are reliable, interpretable, and production-ready.
+</h3>
 
-###
+### 🤖 ML Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="NumPy" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="Jupyter" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="TensorFlow" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="PyTorch" />
 </div>
 
 ###
